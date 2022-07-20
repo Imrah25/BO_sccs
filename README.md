@@ -6,6 +6,8 @@ Kolmafia script to handle a softcore community service run with my set of skills
 * Adds support for DNA lab
 * Adds support for Machine Elf
 * Adds support for Deck
+* Adds support for Birb calendar
+* Changes routing slightly to better make use of quest rewards
 * Adds specific calls for pulls
 * The setup script handles 1) pre-valhalla 2) valhalla 3) pulls and some pre-run misc tasks including DNA setup, snojo, deep machine tunnels, and numberology. 
 
